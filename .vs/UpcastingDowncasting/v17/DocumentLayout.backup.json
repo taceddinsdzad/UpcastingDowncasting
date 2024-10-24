@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|c:\\users\\black\\desktop\\yeni qovluq\\upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|c:\\users\\black\\desktop\\yeni qovluq\\upcastingdowncasting\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|solutionrelative:fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|c:\\users\\black\\desktop\\yeni qovluq\\upcastingdowncasting\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|solutionrelative:pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|c:\\users\\black\\desktop\\yeni qovluq\\upcastingdowncasting\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|solutionrelative:orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|c:\\users\\black\\desktop\\yeni qovluq\\upcastingdowncasting\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C209A988-87E0-4935-9E8D-B3AE52822278}|UpcastingDowncasting.csproj|solutionrelative:apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Orange.cs",
+              "RelativeDocumentMoniker": "Orange.cs",
+              "ToolTip": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Orange.cs",
+              "RelativeToolTip": "Orange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:33:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Pineapple.cs",
+              "RelativeDocumentMoniker": "Pineapple.cs",
+              "ToolTip": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Pineapple.cs",
+              "RelativeToolTip": "Pineapple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:29:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Apple.cs",
+              "RelativeDocumentMoniker": "Apple.cs",
+              "ToolTip": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Apple.cs",
+              "RelativeToolTip": "Apple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:24:49.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Fruit.cs",
+              "RelativeDocumentMoniker": "Fruit.cs",
+              "ToolTip": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Fruit.cs",
+              "RelativeToolTip": "Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:18:01.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BLACK\\Desktop\\Yeni qovluq\\UpcastingDowncasting\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:15:41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
